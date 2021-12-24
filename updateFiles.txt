@@ -1,1 +1,1 @@
-update.bin
+NewLaser-V1.0.bin
